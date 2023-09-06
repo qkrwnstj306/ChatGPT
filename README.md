@@ -1,6 +1,8 @@
 # ChatGPT
 for problem bank
 
+<strong> davinci(GPT-3.5) -> ChatGPT</string>
+
 ![1](./image/1.JPG)
 
 ## application description
