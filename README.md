@@ -1,7 +1,7 @@
 # ChatGPT
 for problem bank
 
-<strong> davinci(GPT-3.5) -> ChatGPT</string>
+<strong> davinci(GPT-3.5) -> ChatGPT</strong>
 
 ![1](./image/1.JPG)
 
